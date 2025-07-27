@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyProject",
+			"Path": "C:\\Users\\Ruvail\\Documents\\GitHub\\U5_2\\MyProject\\Source\\MyProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyProjectEditor",
+			"Path": "C:\\Users\\Ruvail\\Documents\\GitHub\\U5_2\\MyProject\\Source\\MyProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
