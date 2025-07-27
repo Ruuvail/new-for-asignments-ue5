@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ruvail\\documents\\github\\u5_2\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\myprojectprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ruvail\\documents\\github\\u5_2\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ruvail\\documents\\github\\u5_2\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h",
+            "c:\\users\\ruvail\\documents\\github\\u5_2\\myproject\\source\\myproject\\myprojectprojectile.h",
+            "c:\\users\\ruvail\\documents\\github\\u5_2\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\uht\\myprojectprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
